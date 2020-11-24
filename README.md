@@ -1,6 +1,7 @@
 ```
 # Définition d'un GOPATH clean pour voir ce qu'il s'y passe
 $ export GOPATH=/home/nicolas/go-01-tartine
+$ mkdir $GOPATH
 $ sudo rm -rf $GOPATH
 
 # création du module
